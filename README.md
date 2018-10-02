@@ -4,8 +4,13 @@ Replication [**"Query Expansion with Locally-Trained Word Embeddings"**](http://
 
 Retireval System - Indri 5.13, command used in ipynb using shlex, subprocess
 
-Evaluation System - trec_val 9.0, implemented in cygwin terminal
+Evaluation System - trec_eval 9.0, implemented in cygwin terminal
 
+Stopword List = [SMART](http://www.lextek.com/manuals/onix/stopwords2.html)
+## Experiment Paths
+1. Baseline Retrieval on WikiPassageQA - ```./Lemur/WikiPassageQA/```
+2. Retrieval using query expansion with Global Embedding - ```./glove.6B/```
+3. Retrieval using query expansion with Local Embedding - ```./word2vec/```
 
 
 
