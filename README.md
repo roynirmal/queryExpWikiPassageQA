@@ -12,5 +12,9 @@ Stopword List = [SMART](http://www.lextek.com/manuals/onix/stopwords2.html)
 2. Retrieval using query expansion with Global Embedding - ```./glove.6B/```
 3. Retrieval using query expansion with Local Embedding - ```./word2vec/```
 
+## Sanity Check
+Performed Sanity Check of all three previous pipline on [**Robust 2004 dataset**](https://trec.nist.gov/data/t13_robust.html) since the original paper also uses them.
+
+Find Sanity Check of the pipelines in ```./aquaint/ ``
 
 
