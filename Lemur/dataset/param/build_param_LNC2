@@ -1,0 +1,8 @@
+<parameters>
+   <index>index/WPQA_LNC2</index>
+   <corpus>
+      <path>input/doc_LNC2.txt</path>
+      <class>trectext</class>
+   </corpus>
+   <memory>500m</memory>
+</parameters>

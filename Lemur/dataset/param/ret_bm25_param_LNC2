@@ -1,0 +1,9 @@
+<parameters>
+   <index>index/WPQA_LNC2</index>
+   <count>1000</count>
+   <trecFormat>true</trecFormat>
+   <queryOffset>-1</queryOffset>
+   <baseline>okapi</baseline>
+   <runID>OKAPI</runID>
+</parameters>
+

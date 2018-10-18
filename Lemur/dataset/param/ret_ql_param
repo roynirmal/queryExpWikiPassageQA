@@ -1,0 +1,13 @@
+<parameters>
+   <index>index/WPQA</index>
+   <count>1000</count>
+   <trecFormat>true</trecFormat>
+   <queryOffset>-1</queryOffset>
+   <retModel>kl</retModel>
+   <smoothMethod>dir</smoothMethod>
+   <smoothStrategy>0</smoothStrategy>
+   <adjustedScoreMethod>ql</adjustedScoreMethod>
+   <DirichletPrior>2500</DirichletPrior>
+   <runID>QL</runID>
+</parameters>
+

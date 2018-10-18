@@ -1,0 +1,10 @@
+<parameters>
+   <index>index/WPQA</index>
+   <count>100000</count>
+   <rule>method:dirichlet,mu:2500</rule>
+   <trecFormat>true</trecFormat>
+   <queryOffset>-1</queryOffset>
+   <runID>Indri_dirichlet</runID>
+   <stemmer><name>krovetz</name></stemmer>
+</parameters>
+

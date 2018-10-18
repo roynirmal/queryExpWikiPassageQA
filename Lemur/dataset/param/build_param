@@ -1,0 +1,8 @@
+<parameters>
+   <index>index/WPQA</index>
+   <corpus>
+      <path>input/doc.txt</path>
+      <class>trectext</class>
+   </corpus>
+   <memory>500m</memory>
+</parameters>
