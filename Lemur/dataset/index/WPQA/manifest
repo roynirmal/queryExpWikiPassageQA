@@ -1,0 +1,15 @@
+<parameters>
+	<indexCount>1</indexCount>
+	<indexes>
+		<index>0</index>
+	</indexes>
+	<injectURL>true</injectURL>
+	<normalize>true</normalize>
+	<stopper>
+		<word>a</word>
+		<word>an</word>
+		<word>the</word>
+		<word>as</word>
+	</stopper>
+</parameters>
+
