@@ -29,13 +29,17 @@ and structural information using Convolutional Learning.
 leads to better understanding of complex questions.
 
 **How** - We will replicate [Cao et al.](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14724)'s architecture and run experiments 
-to test our hypothesis. If we proove it right, we will see how the embeddings are different from word2vec. If not, further error analysis.
+to test our hypothesis. If we prove it right, we will see how the embeddings are different from word2vec. If not, further error analysis.
 
-**Next Step** - We will try to include other features, upon better understadning of how these networks work, and try to improve the above
-word embedding model.
+**Next Step** - We will try to include other features, upon better understanding of how these networks work, and try to improve the above word embedding model.
+Improvement options:
+- character based input and the loss is calculate against pre-trained word embeddings 
+- word or word + character based input and output representation
+- learning character level/trigram level representation to handle out of vocabulary words. There will be a matrix for character and trigram vectors. Each word can be the summation of its character/trigram representation
 
-**A long shot** - I would really like to include BERT/ELMO as the final step of the project. To see, the effect of pre-trained BiLM's on word
-embeddings and query expansion. I just need a bit of help/time to fully understand how they work.
+
+**A long shot** - I would really like to include BERT/ELMO as the final step of the project. To see, the effect of pre-trained BiLM's on word embeddings and query expansion. I just need a bit of help/time to fully understand how they work.
+Can we use them as a word similarity finding task?
 
 
 
