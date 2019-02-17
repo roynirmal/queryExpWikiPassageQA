@@ -34,7 +34,7 @@ to test our hypothesis. If we proove it right, we will see how the embeddings ar
 **Next Step** - We will try to include other features, upon better understadning of how these networks work, and try to improve the above
 word embedding model.
 
-**A long shot** - I would really like to include ELMO as the final step of the project. To see, the effect of pre-trained BiLM's on word
+**A long shot** - I would really like to include BERT/ELMO as the final step of the project. To see, the effect of pre-trained BiLM's on word
 embeddings and query expansion. I just need a bit of help/time to fully understand how they work.
 
 
