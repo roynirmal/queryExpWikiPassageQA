@@ -36,7 +36,7 @@ Improvement options:
 - character based input and the loss is calculate against pre-trained word embeddings 
 - word or word + character based input and output representation
 - learning character level/trigram level representation to handle out of vocabulary words. There will be a matrix for character and trigram vectors. Each word can be the summation of its character/trigram representation
-
+- multitask learning ? 
 
 **A long shot** - I would really like to include BERT/ELMO as the final step of the project. To see, the effect of pre-trained BiLM's on word embeddings and query expansion. I just need a bit of help/time to fully understand how they work.
 Can we use them as a word similarity finding task?
