@@ -46,6 +46,7 @@ Can we use them as a word similarity finding task?
 ### Other Experiments that I plan to perform/performing right now
 - [ ] Comparison of RM3 expansion terms with expansion terms obtained from the local embedding model 
 - [ ] Expeirments showing ***query expansion false positives*** how many expansion terms are present in non correct passages
+- [ ] Write about QE in QA in related work section? 
 - [ ] Visualisation of local and global embedding in the 2D space using tsne, and if they do not work understanding why they do not work.
 - [ ] Obersving which questions are most difficult to answer (Why/What/How etc..)
 - [ ] If the new embedding works, comparing and visualising the new embedding with word2vec
