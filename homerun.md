@@ -44,6 +44,9 @@ Can we use them as a word similarity finding task?
 
 
 ### Other Experiments that I plan to perform/performing right now
+- [ ] Ground Truth vs Generated Embedding Experiment
+- [ ] Mask Query Term experiment: Have to think about the metrics?
+- [ ] What about the weights of the expansion?
 - [ ] Comparison of RM3 expansion terms with expansion terms obtained from the local embedding model 
 - [ ] Expeirments showing ***query expansion false positives*** how many expansion terms are present in non correct passages
 - [ ] Write about QE in QA in related work section? 
